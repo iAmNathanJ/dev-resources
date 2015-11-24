@@ -4,7 +4,7 @@
 
 ### Interactive - tutorials, etc.
 
-[Functional JavaScript Exercises](http://reactivex.io/learnrx/ "By Jafar Husain") (lead-in to Microsoft Rx Library)
+[Functional JavaScript Exercises](http://reactivex.io/learnrx/ "By Jafar Husain") (lead-in to Microsoft Rx Library)  
 [Node p2p Workshop](http://mafintosh.github.io/p2p-workshop/build/01.html)
 
 ### Articles
