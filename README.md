@@ -10,6 +10,7 @@
 ### Articles
 
  - [Concurrency Part 1](http://blog.getify.com/concurrently-javascript-1/ "By Kyle Simpson")
+ - [Concurrency Part 2](http://blog.getify.com/concurrently-javascript-2/ "By Kyle Simpson")
 
 ### Videos
 
