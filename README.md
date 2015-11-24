@@ -10,3 +10,7 @@
 ### Articles
 
 [Concurrency Part 1](http://blog.getify.com/concurrently-javascript-1/ "By Kyle Simpson")
+
+### Videos
+
+[Composition over Inheritance](https://youtu.be/wfMtDGfHWpA "By mpjme")
