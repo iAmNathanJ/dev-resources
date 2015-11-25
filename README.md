@@ -29,7 +29,6 @@
 
   - [Composition Over Inheritance](https://youtu.be/wfMtDGfHWpA)  
   <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448479040/resource-icons/video.svg" alt="Video" width=20 height=20 />  
-  <cite>Credit: mpjme</cite>
 
 ### Observables
   
