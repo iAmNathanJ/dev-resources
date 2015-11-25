@@ -39,4 +39,9 @@
   // video, tutorial
   - [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux?utm_source=drip&utm_medium=email&utm_campaign=you-ready-to-redux&__s=kexcide3evojdsaqd7a5 "By Dan Abramov")
 
+### Tools / Visualizers
+
+ - [RxMarbles](http://rxmarbles.com/) (reactive streams visualizer)
+ - [Cubic Bezier](http://cubic-bezier.com/) (bezier curve visualizer)
+
 *Icon set by Revicon from [www.flaticon.com](http://www.flaticon.com "Flaticon") - licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
