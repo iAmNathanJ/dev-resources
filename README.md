@@ -19,5 +19,5 @@
 
 ### Tools / Visualizers
 
- - [RxMarbles](http://rxmarbles.com/) (Reactive Streams Visualizer)
- - [Cubic Bezier](http://cubic-bezier.com/) (Bezier Curve Visualizer)
+ - [RxMarbles](http://rxmarbles.com/) (reactive streams visualizer)
+ - [Cubic Bezier](http://cubic-bezier.com/) (bezier curve visualizer)
