@@ -1,13 +1,13 @@
 # Web Development Resources
 
 **KEY**  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/resource-icons/text.svg" alt="text" width=48 height=48 /> - Article / Book  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/interactive.svg" alt="Interactive" width=48 height=48 /> - Interactive  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tool.svg" alt="Tool" width=48 height=48 /> - Tool  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tutorial.svg" alt="Tutorial" width=48 height=48 /> - Tutorial  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448479040/resource-icons/video.svg" alt="Video" width=48 height=48 /> - Video  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/visualizer.svg" alt="Visualizer" width=48 height=48 /> - Visualizer  
-<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/workshop.svg" alt="Workshop" width=48 height=48 /> - Workshop
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/resource-icons/text.svg" alt="text" width=24 height=24 /> Article / Book  
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/interactive.svg" alt="Interactive" width=24 height=24 /> Interactive  
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tool.svg" alt="Tool" width=24 height=24 /> Tool  
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tutorial.svg" alt="Tutorial" width=24 height=24 /> Tutorial  
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448479040/resource-icons/video.svg" alt="Video" width=24 height=24 /> Video  
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/visualizer.svg" alt="Visualizer" width=24 height=24 /> Visualizer  
+<img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/workshop.svg" alt="Workshop" width=24 height=24 /> Workshop
 
 ## JavaScript
 
