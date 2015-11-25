@@ -1,7 +1,7 @@
 # Web Development Resources
 
 **KEY**  
-![Article](https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/h_64,w_64/resource-icons/text.svg) - Article / Book
+![Article](https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/c_scale,h_64,w_64/resource-icons/text.svg) - Article / Book
 ![Interactive](https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/interactive.svg) - Interactive
 ![Tool](https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tool.svg) - Tool
 ![Tutorial](https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tutorial.svg) - Tutorial
