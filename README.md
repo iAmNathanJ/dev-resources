@@ -16,3 +16,8 @@
 
  - [Composition Over Inheritance](https://youtu.be/wfMtDGfHWpA "By mpjme")
  - [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux?utm_source=drip&utm_medium=email&utm_campaign=you-ready-to-redux&__s=kexcide3evojdsaqd7a5 "By Dan Abramov")
+
+### Tools / Visualizers
+
+ - [RxMarbles](http://rxmarbles.com/) (Reactive Streams Visualizer)
+ - [Cubic Bezier](http://cubic-bezier.com/) (Bezier Curve Visualizer)
