@@ -33,7 +33,7 @@
   - [Functional JavaScript Exercises](http://reactivex.io/learnrx/) (lead-in to Microsoft Rx library)  
   <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tutorial.svg" alt="Tutorial" width=20 height=20 /> <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/interactive.svg" alt="Interactive" width=20 height=20 />
 
-  - [Concurrency Part 1](http://blog.getify.com/concurrently-javascript-1/)  
+  - [Concurrency Part 1](http://blog.getify.com/concurrently-javascript-1/)
   - [Concurrency Part 2](http://blog.getify.com/concurrently-javascript-2/)  
   <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/resource-icons/text.svg" alt="text" width=20 height=20 />
   
