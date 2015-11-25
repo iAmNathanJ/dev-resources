@@ -1,7 +1,5 @@
 # Web Development Resources
 
-**KEY**  
-
 <!-- article / book -->
 <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/resource-icons/text.svg" alt="text" width=20 height=20 /> Article / Book  
 
@@ -36,11 +34,9 @@
   <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tutorial.svg" alt="Tutorial" width=20 height=20 /> <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/interactive.svg" alt="Interactive" width=20 height=20 />
 
   - [Concurrency Part 1](http://blog.getify.com/concurrently-javascript-1/)  
-  <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/resource-icons/text.svg" alt="text" width=20 height=20 />
-  
   - [Concurrency Part 2](http://blog.getify.com/concurrently-javascript-2/)  
   <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478724/resource-icons/text.svg" alt="text" width=20 height=20 />
-
+  
   - [RxMarbles](http://rxmarbles.com/) (reactive streams visualizer)  
   <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/tool.svg" alt="Tool" width=20 height=20 /> <img src="https://res.cloudinary.com/nathanj-me/image/upload/v1448478167/resource-icons/visualizer.svg" alt="Visualizer" width=20 height=20 />
 
