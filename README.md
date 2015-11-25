@@ -44,4 +44,4 @@
  - [RxMarbles](http://rxmarbles.com/) (reactive streams visualizer)
  - [Cubic Bezier](http://cubic-bezier.com/) (bezier curve visualizer)
 
-*Icon set by Revicon from [www.flaticon.com](http://www.flaticon.com "Flaticon") - licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
+*Icon set by Revicon from [flaticon.com](http://www.flaticon.com "Flaticon") - licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
