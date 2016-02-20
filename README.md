@@ -2,7 +2,7 @@
 
 ---
 
-## JavaScript
+### JavaScript
 **Functional JavaScript**  
 [Composition Over Inheritance](https://youtu.be/wfMtDGfHWpA)
 
@@ -25,17 +25,17 @@
 
 ---
 
-## CSS
+### CSS
 [Cubic Bezier](http://cubic-bezier.com/) (bezier curve visualizer)
 
 ---
 
-## Databases
+### Databases
 [Interactive MongoDB Tutuorial](http://mongly.openmymind.net/tutorial/index)
 
 ---
 
-## Tools
+### Tools
 **Git**  
 [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/)
 
