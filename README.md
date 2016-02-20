@@ -1,7 +1,5 @@
 # Web Development Resources
 
----
-
 ### JavaScript
 **Functional JavaScript**  
 [Composition Over Inheritance](https://youtu.be/wfMtDGfHWpA)
