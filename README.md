@@ -16,7 +16,7 @@
 [Design Patterns in Ruby](https://dockyard.com/blog/categories/design-patterns)
 
 **Node.js**  
-[semver docs](https://docs.npmjs.com/misc/semver)
+[npm semver docs](https://docs.npmjs.com/misc/semver)
 [Node p2p Workshop](http://mafintosh.github.io/p2p-workshop/build/01.html)  
 
 **Libraries & Frameworks**  
