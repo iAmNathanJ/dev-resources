@@ -29,6 +29,11 @@
 [Cubic Bezier](http://cubic-bezier.com/) (bezier curve visualizer)  
 [CSS Triggers](https://csstriggers.com/)  
 
+**Flexbox**
+[Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[What the Flexbox](http://flexbox.io/)
+[Flexbugs](https://github.com/philipwalton/flexbugs)
+
 ---
 
 ### Databases
@@ -42,3 +47,11 @@
 
 **In-Browser Coding**  
 [repl.it](https://repl.it/)  
+
+---
+
+### Open Source
+
+---
+
+### People
