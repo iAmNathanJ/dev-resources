@@ -1,6 +1,9 @@
 # Web Development Resources
 
 ### JavaScript / Ruby
+**General**  
+[The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
+
 **Functional JavaScript**  
 [Composition Over Inheritance](https://youtu.be/wfMtDGfHWpA)  
 
