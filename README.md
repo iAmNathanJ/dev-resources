@@ -58,3 +58,12 @@
 ---
 
 ### People
+Reginald Braithwaite
+Brad Frost
+Marcy Sutton
+Paul Irish
+Paul Lewis
+Jake Archibald
+Sara Soueidan
+Bennett Feely
+Kyle Simpson
